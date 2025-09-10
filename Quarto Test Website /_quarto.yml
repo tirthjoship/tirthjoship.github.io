@@ -2,20 +2,16 @@ project:
   type: website
 
 website:
-  title: "Quarto Test Website "
+  title: "Tirth Joshi"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: cosmo
     toc: true
-
-
 
