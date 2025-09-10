@@ -1,0 +1,9 @@
+---
+title: "About Me"
+---
+
+Hi I am Tirth Joshi! A student pursuing MDS program at UBC.
+
+I am passionate about implications of data science in healthcare which motivated me to pursue the field of Data Science.
+
+This website will have summary of my achievements in the program. 
